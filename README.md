@@ -128,11 +128,3 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 4. If you run the command .\mvnw -U install for the first time it will take atleast 10 minutes
 
 # Testing README
-Srichandana
-Neha
-
-sasi
-
-anoosha
-satish
-
